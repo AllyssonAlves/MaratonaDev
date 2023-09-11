@@ -6,6 +6,8 @@ https://kroton-my.sharepoint.com/:f:/g/personal/allysson_carvalho_kroton_com_br/
 
 
 Lista de Desafios:
+
+Desafios feitos em qualquer linguagem de programação.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 1) # Salario
 Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
